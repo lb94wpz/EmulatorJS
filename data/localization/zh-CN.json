@@ -297,5 +297,9 @@
     "DPAD_UP": "十字键向上",
     "DPAD_DOWN": "十字键向下",
     "DPAD_LEFT": "十字键向左",
-    "DPAD_RIGHT": "十字键向右"
+    "DPAD_RIGHT": "十字键向右",
+    "up arrow": "↑",
+    "down arrow": "↓",
+    "left arrow": "←",
+    "right arrow": "→"
 }
